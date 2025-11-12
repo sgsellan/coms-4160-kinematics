@@ -624,9 +624,9 @@ rotations as matrices.
 
 ### `src/catmull_rom_interpolation.cpp`
 
-At this stage, you should be able to run `./kinematics` and (after pressing `i`), see the robot arm moving (press spacebar to start the animation and `R` to reset it):
+At this stage, you should be able to run `./kinematics` and (after pressing `i`), see *the skeleton* of the robot arm moving, while the arm stays quiet (press spacebar to start the animation and `R` to reset it):
 
-![](images/robot-arm-wireframe.gif)
+![output](https://github.com/user-attachments/assets/8208c974-1f7f-4360-a576-0ffeb32e2c06)
 
 ### `src/linear_blend_skinning.cpp`
 
