@@ -211,8 +211,6 @@ outside the scope of this assignment.
 
 ### Inverse Kinematics
 
-*Note: The inverse kinematics part of the assignment is optional and will not be graded.*
-
 In the [forward kinematics][forwardkinematics] model, the final position of the
 tip of a finger is determined by setting (manually or via interpolation) the
 relative transformations of each joint in the finger, the hand, the elbow, the
@@ -636,8 +634,6 @@ At this stage, you should be able to run `./kinematics ../data/chimpanzee-hand.j
 
 ### `src/copy_skeleton_at.cpp`
 You do not need to do anything here. Solution is already given.
-
-## Optional (will not be graded)
 
 ### `src/end_effectors_objective_and_gradient.cpp`
 This file is optional and will not be graded.
