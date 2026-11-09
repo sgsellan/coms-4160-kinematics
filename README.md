@@ -636,16 +636,16 @@ At this stage, you should be able to run `./kinematics ../data/chimpanzee-hand.j
 You do not need to do anything here. Solution is already given.
 
 ### `src/end_effectors_objective_and_gradient.cpp`
-This file is optional and will not be graded.
+See instructions above
 
 ### `src/kinematics_jacobian.cpp`
-This file is optional and will not be graded.
+TSee instructions above
 
 ### `src/projected_gradient_descent.cpp`
-This file is optional and will not be graded.
+See instructions above
 
 ### `src/line_search.cpp`
-This file is optional and will not be graded.
+See instructions above
 
 [eulerangles]: https://en.wikipedia.org/wiki/Euler_angles
 
